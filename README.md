@@ -1,5 +1,5 @@
 # Users-list-demo
-Demo React JS &amp; Redux toolkit APP to handle users and posts.
+Demo React JS &amp; Redux toolkit App to handle users and posts.
 
 - **Project set up** - The project was set up with, Create React App, using Redux and Redux Toolkit.
 - **Redux logic** - Redux toolkit was used to cover Redux logic and immutability of the Redux store (Immer and Redux thunk are built-in features in Redux toolkit).
